@@ -1,0 +1,158 @@
+.headmenu{
+
+    height: 480px;
+    width: 100%;
+    background-color: #293f50;
+}
+.divhead1{
+    width: 100%;
+    height: 35%;
+}
+.conf{
+
+    float: left;
+    width: 50%;
+}
+#pp{
+    margin-left: 40%;
+    margin-right: 80%;
+    margin-top: 5%;
+    display: block;
+    font-size: 60px;
+    line-height: 0.7em;
+    font-family: Alegreya Sans SC;
+    letter-spacing: 2px;
+    opacity: 0.8;
+}
+.pplink{
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.8s;
+}
+.divhead1 a:hover{
+    color: rgb(86, 107, 139);
+}
+
+.divhead2{
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+#list{
+    float: left;
+    margin: 10px;
+    letter-spacing: 6pxpx;
+}
+.menu{
+    margin-left: 30px;
+    list-style-type:none;
+}
+.divhead2 p{
+    font-size: 25px;
+    margin-left: 200px;
+    color: rgb(86, 107, 139);
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    transition-duration: 0.9s;
+    
+}
+.menu a:hover{ 
+    color:rgb(86, 107, 139);
+
+}
+.divhead3{
+    width: 100%;
+    height:50%;
+    margin-top: 20px;
+}
+#para1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    color:rgb(86, 107, 139);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.para2{
+    text-align: center;
+    font-size: 25px;
+    line-height: 0.01em;
+    color: white;
+    font-weight: lighter;
+    opacity: 0.8;
+    letter-spacing: 2px;
+}
+.divhead3 a{
+    margin-left: 41%;
+    text-decoration: none;
+    color: white;
+    background-color: #293f50;
+    padding: 20px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 4px;
+    letter-spacing: 3px;
+    transition-duration: 0.8s;
+}
+.divhead3 a:hover{
+    color: #293f50;
+    background-color: white;
+}
+.main{
+    width: 100%;
+    height: 600px;
+    /* background-color: yellow; */
+}
+.maindiv1{
+    float: left;
+    margin-left: 17%;
+    width: 20%;
+    height: 580px;
+    /* background-color: blue; */
+}
+.maindiv2{ 
+    margin-left: 3%;
+    width: 20%;
+    height: 580px;
+    /* background-color: blue; */
+    float: left;
+}
+#para3{
+    margin-left: 20px;
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+    opacity: 0.5;
+
+}
+.images{
+    width: 93%;
+    height: 50%;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+.maindiv1 h2{
+    margin-left: 20px;
+    font-family: monospace;
+    color: black;
+    opacity: 0.8;
+}
+.maindiv2 h2{
+    margin-left: 20px;
+    font-family: monospace;
+    color: black;
+    opacity: 0.8;
+}
+.para4{
+    margin-left: 20px;
+    font-size: 17px;
+    letter-spacing: 2px;
+    opacity: 0.6;
+}
+.bottom{
+    width: 100%;
+    height: 130px;
+    background-color: #293f50;
+}
